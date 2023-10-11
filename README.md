@@ -1,5 +1,3 @@
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/1143638421257072661?theme=dark&hideDiscrim=false&hideBadges=false&bg=000000&borderRadius=35px)](https://discord.com/users/1143638421257072661)
-
 # 📁 Bot İçerikleri
 - Gelişmiş Müzik Sistemi
 - Butonlu ve Menülü Seçenekler
