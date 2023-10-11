@@ -4,6 +4,6 @@
 - [**x**] Butonlu ve Menülü Seçenekler
 - [**x**] Slash **/** Destekli Komutlar
 
-# 🚨 Destek İçin Discord Sunucumuza Gelebilirsiniz.
+# 🚨 Discord Sunucumuz
 
 🎁 [Black Development](https://discord.gg/6q77xEJHBYr)
