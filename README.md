@@ -1,4 +1,4 @@
-https://lanyard-profile-readme.vercel.app/api/1143638421257072661?theme=dark&hideDiscrim=falset&hideBadges=true&bg=000000&borderRadius=35px&idleMessage=%C4%B0leti%C5%9Fim%20%C4%B0%C3%A7in%20T%C4%B1kla
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/1143638421257072661?theme=dark&hideDiscrim=false&hideBadges=false&bg=000000&borderRadius=35px&idleMessage=Sunucuya Özel Botlar%20İçin%20Tıkla)](https://discord.com/users/1143638421257072661)
 
 # 📁 Bot İçerikleri
 - Gelişmiş Müzik Sistemi
