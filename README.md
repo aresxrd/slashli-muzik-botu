@@ -4,5 +4,5 @@
 - Slash **/** Destekli Komutlar
 
 # 🚨 Discord Sunucumuz
-- [Black Development](https://discord.gg/6q77xEJHBYr)
+- [StarDev](https://discord.gg/6q77xEJHBYr)
 
