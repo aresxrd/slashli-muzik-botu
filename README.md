@@ -3,6 +3,8 @@
 - Butonlu ve Menülü Seçenekler
 - Slash **/** Destekli Komutlar
 
-# 🚨 Discord Sunucumuz
-- [StarDev](https://discord.gg/6q77xEJHBYr)
+ # İletişim
+
+- [Discord Profilim](https://discord.com/users/1143638421257072661)
+- [⭐ StarDev](https://discord.gg/ez8kSfyCa7)
 
