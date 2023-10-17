@@ -8,11 +8,9 @@
  # Botun Kurulumu
 
 - İlk olarak bilgisayarına [Node JS](https://nodejs.org/en/) indir.
-
-- Daha sonra altyapıyı indirip konsola npm.i yazıp modülleri kurun.
-- Modüller Kurulduktan Sonra node . Yazıp Botu Başlatın.
-
-	- Bu kadar bot hazır
+ - Daha sonra altyapıyı indirip konsola npm.i yazıp modülleri kurun.
+ - Modüller Kurulduktan Sonra node . Yazıp Botu Başlatın.
+ - Bu kadar bot hazır
 
   
 
